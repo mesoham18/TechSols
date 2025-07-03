@@ -1,4 +1,4 @@
-🧾 Internship Assignment – Item Catalog Website
+🧾 TechSols
 
 This project is a simple item catalog web application with two primary pages: **View Items** and **Add Items**. It allows users to add new fashion/sports items with images and view item listings in an interactive interface.
 
